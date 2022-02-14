@@ -1,8 +1,12 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 2a517a5a-a24c-fbee-9f3a-400917233cbe
 title: Chinatown Scavenger Hunt
+type: CourseSection
 uid: 59a07462-ee29-7417-74f8-4bd1702ce55a
 ---
 
