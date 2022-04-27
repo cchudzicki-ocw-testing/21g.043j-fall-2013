@@ -83,7 +83,7 @@ Discussion
 
 Harte, Bret. "[Ah Sin: The Heathen Chinee](http://etext.virginia.edu/railton/roughingit/map/chiharte.html)." 1870.
 
-\[Letter of the Chinamen to Governor Bigler\]([http://dict.cn/Letter](http://dict.cn/Letter) of the Chinamen to Governor Bigler, April 1852\_2E), April 1852.
+[Letter of the Chinamen to Governor Bigler](http://dict.cn/Letter%20of%20the%20Chinamen%20to%20Governor%20Bigler,%20April%201852_2E), April 1852.
 
 Rev. Gibson, Otis. *"Chinaman or White Man, Which?" Reply to Father Buchard*. Adegi Graphics LLC, 2011. ISBN: 9780543730299.
 
