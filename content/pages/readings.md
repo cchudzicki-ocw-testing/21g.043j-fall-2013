@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on required and recommended texts,
+  and the schedule of readings by weekly topic.
 draft: false
 learning_resource_types:
 - Readings
